@@ -1,2 +1,2 @@
 # school-projects
- My saved school projects.
+ Some of my saved school projects.
